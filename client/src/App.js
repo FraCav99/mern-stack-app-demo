@@ -9,7 +9,7 @@ function App() {
   const [posts, setPosts] = useState([]);
   const [isEdit, setIsEdit] = useState(false);
   const [currentPost, setCurrentPost] = useState();
-  const url = 'http://localhost:3001';
+  const url = 'https://mern-app-stack-post.herokuapp.com';
 
   useEffect(() => {
     fetchPosts();
