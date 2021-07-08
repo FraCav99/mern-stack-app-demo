@@ -1,0 +1,69 @@
+body {
+  background-color: rgb(59, 59, 59);
+}
+
+h1 {
+  color: rgb(0, 204, 255);
+}
+
+.hidden {
+  display: none;
+}
+
+.App {
+  text-align: center;
+}
+
+.posts-container {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  padding: 10px 0;
+}
+
+.post {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto 20px auto;
+  text-align: left;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 10px;
+  background: rgb(90, 90, 90);
+}
+
+.post h2,
+p {
+  color: rgb(202, 202, 202);
+}
+
+.post button {
+  cursor: pointer;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.post #delete-btn {
+  background: red;
+  margin-right: 20px;
+}
+
+.post #edit-btn {
+  background: rgb(201, 201, 0);
+}
+
+.post #delete-btn:hover,
+#close-edit:hover {
+  background-color: rgb(184, 15, 15);
+}
+
+.post #edit-btn:hover {
+  background-color: rgb(151, 141, 0);
+}
+
+#close-edit {
+  background-color: red;
+}
