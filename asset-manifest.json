@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/mern-stack-app-demo/static/css/main.c11e193e.chunk.css",
-    "main.js": "/mern-stack-app-demo/static/js/main.da22523f.chunk.js",
-    "main.js.map": "/mern-stack-app-demo/static/js/main.da22523f.chunk.js.map",
+    "main.js": "/mern-stack-app-demo/static/js/main.d17de411.chunk.js",
+    "main.js.map": "/mern-stack-app-demo/static/js/main.d17de411.chunk.js.map",
     "runtime-main.js": "/mern-stack-app-demo/static/js/runtime-main.bb0eeb29.js",
     "runtime-main.js.map": "/mern-stack-app-demo/static/js/runtime-main.bb0eeb29.js.map",
-    "static/js/2.420be285.chunk.js": "/mern-stack-app-demo/static/js/2.420be285.chunk.js",
-    "static/js/2.420be285.chunk.js.map": "/mern-stack-app-demo/static/js/2.420be285.chunk.js.map",
+    "static/js/2.2dae0146.chunk.js": "/mern-stack-app-demo/static/js/2.2dae0146.chunk.js",
+    "static/js/2.2dae0146.chunk.js.map": "/mern-stack-app-demo/static/js/2.2dae0146.chunk.js.map",
     "index.html": "/mern-stack-app-demo/index.html",
     "static/css/main.c11e193e.chunk.css.map": "/mern-stack-app-demo/static/css/main.c11e193e.chunk.css.map",
-    "static/js/2.420be285.chunk.js.LICENSE.txt": "/mern-stack-app-demo/static/js/2.420be285.chunk.js.LICENSE.txt"
+    "static/js/2.2dae0146.chunk.js.LICENSE.txt": "/mern-stack-app-demo/static/js/2.2dae0146.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bb0eeb29.js",
-    "static/js/2.420be285.chunk.js",
+    "static/js/2.2dae0146.chunk.js",
     "static/css/main.c11e193e.chunk.css",
-    "static/js/main.da22523f.chunk.js"
+    "static/js/main.d17de411.chunk.js"
   ]
 }
