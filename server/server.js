@@ -7,7 +7,7 @@ const postRoute = require('./routes/postRoute');
 
 require('dotenv').config();
 
-let whitelist = ['http://localhost:3000'];
+let whitelist = ['https://fracav99.github.io/mern-stack-app-demo/'];
 let corsOptions = {
   origin: function (origin, callback) {
     if (whitelist.indexOf(origin) !== -1) {
